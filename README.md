@@ -1,20 +1,20 @@
-# IsWesbiteUpOrDown
+#IsWesbiteUpOrDown
 Site Connectivity Checker
 A simple Python script to check the connectivity of a website and record the result in a text file.
 
-## Features
+##Features
 *Check if a website is up or down
 *Retrieve the IP address of a website (if available)
 *Record the result in a text file with the date and exact time
 *Support both http:// and https:// protocols
 *Handle errors gracefully and provide meaningful error messages
 
-### Requirements
+###Requirements
 *Python 3.x
 *requests library
 *socket library
 
-###Usage
+### Usage
 *Clone this repository to your local machine.
 *Open the terminal and navigate to the repository directory.
 *Run the script using the following command:
