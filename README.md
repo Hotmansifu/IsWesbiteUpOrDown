@@ -18,8 +18,8 @@ A simple Python script to check the connectivity of a website and record the res
 * Clone this repository to your local machine.
 * Open the terminal and navigate to the repository directory.
 * Run the script using the following command:
-* Copy code
-* python main.py
+```python main.py
+```
 * Enter the website you want to check, e.g., https://www.google.com.
 * The script will check the site status and print the result to the console.
 * The result will also be recorded in a text file site_status.txt located in the same directory.
