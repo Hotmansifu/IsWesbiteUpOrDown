@@ -10,9 +10,9 @@ A simple Python script to check the connectivity of a website and record the res
 * Handle errors gracefully and provide meaningful error messages
 
 ### Requirements
-*Python 3.x
-*requests library
-*socket library
+* Python 3.x
+* requests library
+* socket library
 
 ### Usage
 * Clone this repository to your local machine.
